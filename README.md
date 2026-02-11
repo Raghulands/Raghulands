@@ -11,6 +11,7 @@ Designing and implementing a blockchain project with a focus on security, decent
 &nbsp;
 ### Portolio:
 https://violet-begin-377104.framer.app/#portfolio
+&nbsp;
 ### Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dsraghulan@gmail.com) 
 &nbsp;  
