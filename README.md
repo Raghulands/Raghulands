@@ -9,7 +9,7 @@ Designing and implementing a blockchain project with a focus on security, decent
 &nbsp;  
 &nbsp;  
 &nbsp;
-### Portolio:
+### Portfolio:
 https://violet-begin-377104.framer.app/#portfolio
 &nbsp;
 ### Socials:
