@@ -5,7 +5,7 @@
 &nbsp;
 
 ### 💫 About Me:
-Designing and implementing a blockchain project with a focus on security, decentralization, and real-world use cases.<br><br>Looking to collaborate on real-time projects.<br><br>Looking for help with improving system design, code optimization, and best practices in real-world projects.<br><br>Currently learning blockchain development with a focus on real-world applications.
+Designing and implementing project with a focus on security, decentralization, and real-world use cases.<br><br>Looking to collaborate on real-time projects.<br><br>Looking for help with improving system design, code optimization, and best practices in real-world projects.<br><br>Currently learning blockchain development with a focus on real-world applications.
 &nbsp;  
 &nbsp;  
 &nbsp;
